@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMarket.Domain", "OnlineMarket.Domain\OnlineMarket.Domain.csproj", "{3DF2D51E-5466-4584-9FA9-03E371EC49EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMarket.Api", "OnlineMarket.Api\OnlineMarket.Api.csproj", "{BACA5C6C-A72C-4B75-8CD1-F7D359BB8AD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DF2D51E-5466-4584-9FA9-03E371EC49EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF2D51E-5466-4584-9FA9-03E371EC49EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF2D51E-5466-4584-9FA9-03E371EC49EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF2D51E-5466-4584-9FA9-03E371EC49EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BACA5C6C-A72C-4B75-8CD1-F7D359BB8AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACA5C6C-A72C-4B75-8CD1-F7D359BB8AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACA5C6C-A72C-4B75-8CD1-F7D359BB8AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACA5C6C-A72C-4B75-8CD1-F7D359BB8AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09A772E4-B976-40C8-8079-A903AB50DBBD}
+	EndGlobalSection
+EndGlobal
