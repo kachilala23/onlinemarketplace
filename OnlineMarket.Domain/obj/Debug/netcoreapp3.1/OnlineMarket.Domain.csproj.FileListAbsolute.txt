@@ -1,0 +1,9 @@
+C:\NetCore\OnlineMarket\OnlineMarket.Domain\obj\Debug\netcoreapp3.1\OnlineMarket.Domain.csprojAssemblyReference.cache
+C:\NetCore\OnlineMarket\OnlineMarket.Domain\obj\Debug\netcoreapp3.1\OnlineMarket.Domain.AssemblyInfoInputs.cache
+C:\NetCore\OnlineMarket\OnlineMarket.Domain\obj\Debug\netcoreapp3.1\OnlineMarket.Domain.AssemblyInfo.cs
+C:\NetCore\OnlineMarket\OnlineMarket.Domain\obj\Debug\netcoreapp3.1\OnlineMarket.Domain.csproj.CoreCompileInputs.cache
+C:\NetCore\OnlineMarket\OnlineMarket.Domain\bin\Debug\netcoreapp3.1\OnlineMarket.Domain.deps.json
+C:\NetCore\OnlineMarket\OnlineMarket.Domain\bin\Debug\netcoreapp3.1\OnlineMarket.Domain.dll
+C:\NetCore\OnlineMarket\OnlineMarket.Domain\bin\Debug\netcoreapp3.1\OnlineMarket.Domain.pdb
+C:\NetCore\OnlineMarket\OnlineMarket.Domain\obj\Debug\netcoreapp3.1\OnlineMarket.Domain.dll
+C:\NetCore\OnlineMarket\OnlineMarket.Domain\obj\Debug\netcoreapp3.1\OnlineMarket.Domain.pdb

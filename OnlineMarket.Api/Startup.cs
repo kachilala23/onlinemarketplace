@@ -7,6 +7,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using OnlineMarket.Api.Interface;
+using OnlineMarket.Api.Service;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -28,6 +30,7 @@ namespace OnlineMarket.Api
         {
 
             services.AddControllers();
+            services.AddSingleton<ISeeder, Seeder>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "OnlineMarket.Api", Version = "v1" });
